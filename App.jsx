@@ -22,7 +22,7 @@ class App extends React.Component {
 
 class Header extends React.Component {
     render() {
-        return (
+        return ( 
             <div>
                 <h1>{this.props.headerProp}</h1>
             </div>
